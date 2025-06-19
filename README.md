@@ -31,6 +31,4 @@ The first implementation of Reverbe is called [RAIO](https://raio.issim.net)
 
 ## 📫 Let’s connect
 
-- [LinkedIn](https://www.linkedin.com/in/azahara-cerezo)
-- [Artist website](https://www.azaharacerezo.com)
-- [Email](mailto:cerezo.azahara@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/azahara-cerezo) | [Email](mailto:cerezo.azahara@gmail.com) | [Artist website](https://www.azaharacerezo.com) 
