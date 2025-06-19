@@ -3,11 +3,11 @@ I'm Azahara Cerezo, a full stack developer and experimental coder. With a backgr
 
 ## 🚀 Currently
 
-### Working on [Reverbe](https://github.com/diari-reverbe/reverbe){:target="_blank"} 
+### Working on [Reverbe](https://github.com/diari-reverbe/reverbe)
 A collaborative diary platform. It is a free software package that aims to challenge and rething conventional rules and roles of current social networks.
 **Technologies:** Python, PostgreSQL, Mailman3, Wordpress.
 
-The first implementation of Reverbe is called [RAIO](https://raio.issim.net){:target="_blank"} 
+The first implementation of Reverbe is called [RAIO](https://raio.issim.net)
 
 ## 🧰 Tech Stack & Tools
 
@@ -31,4 +31,4 @@ The first implementation of Reverbe is called [RAIO](https://raio.issim.net){:ta
 
 ## 📫 Let’s connect
 
-[LinkedIn](https://www.linkedin.com/in/azahara-cerezo){:target="_blank"}  | [Email](mailto:cerezo.azahara@gmail.com) | [Artist website](https://www.azaharacerezo.com){:target="_blank"} 
+[LinkedIn](https://www.linkedin.com/in/azahara-cerezo)  | [Email](mailto:cerezo.azahara@gmail.com) | [Artist website](https://www.azaharacerezo.com)
