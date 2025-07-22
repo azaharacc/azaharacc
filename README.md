@@ -7,9 +7,9 @@ I'm Azahara Cerezo, a full stack developer and experimental coder. With a backgr
 A collaborative diary platform. It is a free software package that aims to challenge and rething conventional rules and roles of current social networks.
 **Technologies:** Python, PostgreSQL, Mailman3, Wordpress.
 
-The first implementation of Reverbe is called [RAIO](https://raio.issim.net)
-
 This project will be part of [Mozilla Festival](https://www.mozillafestival.org/) (Barcelona, 2025)
+
+The first implementation of Reverbe is called [RAIO](https://raio.issim.net)
 
 ## 🧰 Tech Stack & Tools
 
