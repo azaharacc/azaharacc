@@ -9,6 +9,8 @@ A collaborative diary platform. It is a free software package that aims to chall
 
 The first implementation of Reverbe is called [RAIO](https://raio.issim.net)
 
+This project will be part of [Mozilla Festival](https://www.mozillafestival.org/) (Barcelona, 2025)
+
 ## 🧰 Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
